@@ -7,7 +7,7 @@
 #### To install the application, follow these steps:
 1. Clone the repository: 
 ```
-git clone https://github.com/Imanm02/webdevelopmentteam1401/HW1-Frontend.git
+git clone https://github.com/webdevelopmentteam1401/Airplane-Website-Frontend.git
 ```
 
 2. Install the packages: 
@@ -18,6 +18,9 @@ yarn install
 # Usage
 #### To use the application, follow these steps:
 * Open each of the html files in your web browser.
+
+A documented standalone version of this interface, with screenshots and a full write-up, is at
+[Biliko-Flight-Booking-UI](https://github.com/Imanm02/Biliko-Flight-Booking-UI).
 
 # Maintainers
 - [Arash Yadegari](https://github.com/Arash1381-y)
